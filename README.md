@@ -6,9 +6,7 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoc-padilha/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoeduardo2701&show_icons=true&theme=radical) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardo2701&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardo2701&hide_progress=false)  
 
 ## Tecnologias que eu uso no meu dia
 
