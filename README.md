@@ -3,7 +3,7 @@
 Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 [![Blog](https://img.shields.io/website?label=dev-eduardocp.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://dev-eduardocp.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardoc_padilha/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoc-padilha/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardo2701&hide_progress=false)  
