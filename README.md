@@ -1,6 +1,6 @@
-# Olá! Eu me chamo Eduardo 👋
+# Hello! I'm Eduardo 👋
 
-Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+I'm passionate about technology, education, and transforming lives through programming.
 
 [![Blog](https://img.shields.io/website?label=dev-eduardocp.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://dev-eduardocp.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardoc_padilha/)
@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas atravé
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardo2701&hide_progress=false)  
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my daily work
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
